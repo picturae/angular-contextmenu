@@ -42,7 +42,6 @@ function Item() {
     iam.element.on('click', function(ev) {
       var multi = ev.ctrlKey || ev.metaKey;
       ev.preventDefault();
-      ev.stopPropagation();
 
       ctrl.get().toggle(iam, multi);
       scope.$apply();

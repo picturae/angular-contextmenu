@@ -4,21 +4,16 @@
 
 [![Build Status](https://secure.travis-ci.org/ds82/angular-contextmenu.svg)](http://travis-ci.org/ds82/angular-contextmenu) [![npm](https://img.shields.io/npm/v/angular-contextmenu.svg)]() [![Greenkeeper badge](https://badges.greenkeeper.io/ds82/angular-contextmenu.svg)](https://greenkeeper.io/)
 
-[demo]: http://ds82.github.io/angular-contextmenu/
 [jsbin]: http://jsbin.com/hodul/13/edit?html,js,output
 [jquery]: http://jquery.com
 [bootstrap]: http://getbootstrap.com
 [angular]: http://angularjs.org
-[download]: https://github.com/ds82/angular-contextmenu/releases
+[download]: https://github.com/picturae/angular-contextmenu/releases
 
 > An [angular] module that utilizes [bootstrap]'s dropdown as contextmenu
 
 With this simple angular module you can use bootstrap dropdown menus as
 contextmenus on various elements (e.g. tables).
-
-Try the **[DEMO][demo]** or have a look at [jsbin].
-
-![](screen.png)
 
 ## Why?
 
@@ -36,11 +31,6 @@ Yes, there are already a few angular modules which add contextmenus similar to t
 Install via npm..
 ```
 npm install angular-contextmenu
-```
-
-Install via bower..
-```
-bower install angular-contextmenu
 ```
 
 or [download] from github.
